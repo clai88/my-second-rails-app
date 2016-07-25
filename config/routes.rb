@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get "/" => "welcome#greeting"
+  get "/:name" => "welcome#greet_name"
+  get "/lorem/:lorem_type" => "welcome#lorems"
+  
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
