@@ -18,4 +18,6 @@ class WelcomeController < ApplicationController
     end
     #code
   end
+
+  
 end
