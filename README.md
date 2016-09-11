@@ -3,7 +3,7 @@
 
 Amazingly simple webapp that allows you to view important home information.
 
-<a href="#"><img src="http://i.imgur.com/CwrdiAx.png" alt="housmouse homepage" height="736" width="1440" ></a>
+<a href="#"><img src="http://i.imgur.com/CwrdiAx.png" alt="housmouse homepage" height="670" width="1440" ></a>
 
 <!-- ![HouseMouse homepage](http://i.imgur.com/CwrdiAx.png) -->
 
