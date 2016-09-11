@@ -1,7 +1,5 @@
-<a href="#"><img src="http://i.imgur.com/IdyzFk7.jpg" align="left" alt="housmouse logo" height="64" width="64" ></a>
+<a href="#"><img src="http://i.imgur.com/IdyzFk7.jpg" align="left" alt="housmouse logo" height="128" width="128" ></a>
 
-![HouseMouse logo](http://i.imgur.com/IdyzFk7.jpg)
-#HouseMouse
 
 Amazingly simple webapp that allows you to view important home information.
 
