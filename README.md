@@ -1,4 +1,6 @@
-<a href="#"><img src="http://i.imgur.com/IdyzFk7.jpg" align="left" alt="housmouse logo" height="128" width="128" ></a>
+<a href="#"><img src="http://i.imgur.com/IdyzFk7.jpg" align="middle" alt="housmouse logo" height="256" width="256" ></a>
+
+<br />
 
 #HouseMouse
 
