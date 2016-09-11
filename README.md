@@ -6,20 +6,6 @@ Amazingly simple webapp that allows you to view important home information.
 
 ![HouseMouse homepage](http://i.imgur.com/CwrdiAx.png)
 
-## Test List
-1. Potato
-    ```
-    code block
-    ```
-2. Potato
-    ```
-    code block
-    ```
-
-3. Potato
-4. Four
-5. Testing
-
 ## Getting started
 
 To get started, simply visit [**housemouse**](https://housemouse.herokuapp.com/) and start searching houses right away.
@@ -29,15 +15,15 @@ To get started, simply visit [**housemouse**](https://housemouse.herokuapp.com/)
 If you wanted to modify the code and go through localhost, follow the instructions below
 
 1. Type the following into command prompt:
-```
-$ git clone git@github.com:clai88/HouseMouse.git
-```
+    ```
+    $ git clone git@github.com:clai88/HouseMouse.git
+    ```
 
 2. Run the command:
-```
-$ bundle install
-```
-Simply running `bundle` will also work
+    ```
+    $ bundle install
+    ```
+    Simply running `bundle` will also work
 
 3. Edit any part of the project you desire.
 <br />
