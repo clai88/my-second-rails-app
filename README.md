@@ -87,7 +87,7 @@ If you wanted to modify the code and go through localhost, follow the instructio
 ##TDO
 - [x] Search houses
 - [x] View previously searched houses
-- [x] Star, Edit, and Delete previously searched houses
+- [x] Star,edit,and delete previously searched houses
 - [ ] View mortgage information for <del>most</del> all houses
 
 ##Feature request
