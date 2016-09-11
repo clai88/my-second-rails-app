@@ -6,7 +6,6 @@
 
 Amazingly simple webapp that allows you to view important home information.
 
-![HouseMouse homepage](http://i.imgur.com/CwrdiAx.png)
 
 ## Getting started
 
@@ -91,6 +90,10 @@ If you wanted to modify the code and go through localhost, follow the instructio
 - [x] View previously searched houses
 - [x] Star, edit,and delete previously searched houses
 - [ ] View mortgage information for <del>most</del> all houses
+
+##Screenshots
+![HouseMouse homepage](http://i.imgur.com/CwrdiAx.png)
+
 
 ##Feature request
 HouseMouse currently only utilizes [zillow](http://www.zillow.com/howto/api/APIOverview.htm) and [walkscore's](https://www.walkscore.com/professional/api.php) api, but if you like to see more API's implemented, please contact me at clai88@gmail.com
