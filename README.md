@@ -38,6 +38,15 @@ If you wanted to modify the code and go through localhost, follow the instructio
       ```rb
       resources :house
       ```
+
+    - In order to generate a new controller, type:
+    ```
+    $ bin/rails generate controller NAME [action action]
+    ```
+    - To generate a new model, type:
+    ```
+    $ bin/rails g model NAME [field[:type][:index] field[:type][:index]]
+    ```
     - To generate a new migration, type:
     ```
     $ bin/rails g migration NAME [field[:type][:index] field[:type][:index]]
