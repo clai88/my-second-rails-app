@@ -84,12 +84,11 @@ If you wanted to modify the code and go through localhost, follow the instructio
     ```
 5. Celebrate! You're on Rails!
 
-##Task List
-- [x] <del>tags</del> supported
+##TDO
 - [x] Search houses
 - [x] View previously searched houses
 - [x] Star, Edit, and Delete previously searched houses
-- [ ] View mortgage information for every house
+- [ ] View mortgage information for <del>most</del> all houses
 
 ##Feature request
 HouseMouse currently only utilizes [zillow](http://www.zillow.com/howto/api/APIOverview.htm) and [walkscore's](https://www.walkscore.com/professional/api.php) api, but if you like to see more API's implemented, please contact me at clai88@gmail.com
