@@ -27,9 +27,9 @@ If you wanted to modify the code and go through localhost, follow the instructio
 
 3. Edit any part of the project you desire.
 <br />
-* To modify the routes, open `config/routes.rb`
-<br />
-The format for generating paths and URL's is:
+    - To modify the routes, open `config/routes.rb`
+    <br />
+    The format for generating paths and URL's is:
     ```rb
     get '/house/:id' => 'house#show', as: 'house'
     ```
@@ -66,7 +66,7 @@ The format for generating paths and URL's is:
     If you edit the Gemfile, be sure to `bundle` afterwards
 
 
-4. To start your rails app, run:
+3. To start your rails app, run:
     ```
     bin/rails server
     ```
@@ -78,11 +78,11 @@ The format for generating paths and URL's is:
 
     To be safe, please make sure the port is between 1024 and 65535
 
-5. To see your edits come to life, open your browser and enter
+4. To see your edits come to life, open your browser and enter
     ```http
     localhost:3000 (or whichever port you chose)
     ```
-6. Celebrate! You're on Rails!
+5. Celebrate! You're on Rails!
 
 ##Feature request
 HouseMouse currently only utilizes [zillow](http://www.zillow.com/howto/api/APIOverview.htm) and [walkscore's](https://www.walkscore.com/professional/api.php) api, but if you like to see more API's implemented, please contact me at clai88@gmail.com
