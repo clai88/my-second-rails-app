@@ -33,7 +33,7 @@ If you wanted to modify the code and go through localhost, follow the instructio
       ```rb
       get '/house/:id' => 'house#show', as: 'house'
       ```
-      Alternatively, simply entering the line below will generate all CRUD routes.
+      Alternatively, simply entering the line below will generate all CRUD routes for the matching controller
       ```rb
       resources :house
       ```
