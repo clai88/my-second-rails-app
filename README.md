@@ -1,8 +1,6 @@
 <p align="center"
 <a href="#"><img src="http://i.imgur.com/X5uYv60.png" alt="housmouse logo" height="114" width="500" ></a>
 
-Amazingly simple webapp that allows you to view important home information.
-
 ![HouseMouse homepage](http://i.imgur.com/CwrdiAx.png)
 
 ## Getting started
