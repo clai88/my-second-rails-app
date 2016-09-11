@@ -1,10 +1,21 @@
+#HouseMouse
+
+![HouseMouse logo](http://i.imgur.com/IdyzFk7.jpg)
+
 Amazingly simple webapp that allows you to view important home information.
 
 ![HouseMouse homepage](http://i.imgur.com/CwrdiAx.png)
 
 ## Test List
 1. Potato
+```
+code block
+```
 2. Potato
+```
+code block
+```
+
 3. Potato
 4. Four
 5. Testing
