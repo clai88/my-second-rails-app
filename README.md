@@ -2,7 +2,7 @@
 <a href="#"><img src="http://i.imgur.com/X5uYv60.png" alt="housmouse logo" height="114" width="500" ></a>
 
 
-<p align="center", style="font-family:courier;color:pink">
+<p align="center">
 Amazingly simple webapp that allows you to view important home information.
 <p />
 
@@ -93,6 +93,8 @@ If you wanted to modify the code and go through localhost, follow the instructio
 
 ##Screenshots
 ![HouseMouse homepage](http://i.imgur.com/CwrdiAx.png)
+
+![HouseMouse previously searched page](http://i.imgur.com/Zro8Y9n.png)
 
 
 ##Feature request
