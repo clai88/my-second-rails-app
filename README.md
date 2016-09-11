@@ -1,5 +1,5 @@
 <p align="center"
-<a href="#"><img src="http://i.imgur.com/bpxXB1C.png" alt="housmouse logo" height="200" width="256" ></a>
+<a href="#"><img src="http://i.imgur.com/bpxXB1C.png" alt="housmouse logo" height="175" width="224" ></a>
 
 
 #HouseMouse
