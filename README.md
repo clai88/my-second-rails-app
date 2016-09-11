@@ -30,13 +30,13 @@ If you wanted to modify the code and go through localhost, follow the instructio
     - To modify the routes, open `config/routes.rb`
     <br />
     The format for generating paths and URL's is:
-    ```rb
-    get '/house/:id' => 'house#show', as: 'house'
-    ```
-    Alternatively, simply entering the line below will generate all CRUD routes.
-    ```rb
-    resources :house
-    ```
+      ```rb
+      get '/house/:id' => 'house#show', as: 'house'
+      ```
+      Alternatively, simply entering the line below will generate all CRUD routes.
+      ```rb
+      resources :house
+      ```
 
     - In order to generate a new controller, type:
     ```
