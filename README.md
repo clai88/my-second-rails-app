@@ -71,7 +71,7 @@ If you wanted to modify the code and go through localhost, follow the instructio
     bin/rails server
     ```
 
-    By default, the rails app will start on port 3000, but you can modify this with the modifier
+    By default, the rails app will start on port 3000, but you can change this with the modifier
     ```
     bin/rails s -p #anyport
     ```
@@ -83,6 +83,13 @@ If you wanted to modify the code and go through localhost, follow the instructio
     localhost:3000 (or whichever port you chose)
     ```
 5. Celebrate! You're on Rails!
+
+##Task List
+- [x] <del>tags</del> supported
+- [x] Search houses
+- [x] View previously searched houses
+- [x] Star, Edit, and Delete previously searched houses
+- [ ] View mortgage information for every house
 
 ##Feature request
 HouseMouse currently only utilizes [zillow](http://www.zillow.com/howto/api/APIOverview.htm) and [walkscore's](https://www.walkscore.com/professional/api.php) api, but if you like to see more API's implemented, please contact me at clai88@gmail.com
