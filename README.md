@@ -2,7 +2,7 @@
 <a href="#"><img src="http://i.imgur.com/X5uYv60.png" alt="housmouse logo" height="114" width="500" ></a>
 
 
-<p align="center">
+<p align="center", style="color:#666666;>
 Amazingly simple webapp that allows you to view important home information.
 <p />
 
