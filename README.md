@@ -7,7 +7,7 @@ Amazingly simple webapp that allows you to view important home information.
 <p />
 
 
-## Getting started
+## Getting started hello
 
 To get started, simply visit [**housemouse**](https://housemouse.herokuapp.com/) and start searching houses right away.
 
